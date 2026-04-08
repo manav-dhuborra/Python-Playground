@@ -6,7 +6,7 @@ from google import genai
 # 1. SETUP YOUR KEYS & CREDENTIALS
 # ==========================================
 
-GEMINI_API_KEY = "AIzaSyDFauWJMWQoNABM_b18KemD80M5bEmGKm8"
+GEMINI_API_KEY = ""
 SUPPORT_EMAIL = "support@hubora.com"       
 
 client = genai.Client(api_key="AIzaSyDFauWJMWQoNABM_b18KemD80M5bEmGKm8")
